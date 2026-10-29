@@ -107,8 +107,12 @@ All fourteen are on the [portfolio](https://hichamcv.netlify.app/projects).
 
 <div align="center">
 
-<img height="165" alt="Hicham's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Virus-101&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a3e635&icon_color=a3e635" />
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virus-101&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a3e635" />
+<img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Virus-101&theme=github_dark" />
+<img height="180" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Virus-101&theme=github_dark" />
+
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Virus-101&theme=github-dark&hide_border=true&background=0d1117&ring=a3e635&fire=a3e635&currStreakLabel=a3e635" />
+
+<img alt="Contribution chart" src="https://ghchart.rshah.org/a3e635/Virus-101" />
 
 </div>
 
