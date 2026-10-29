@@ -20,10 +20,10 @@ I build and validate software for vehicles. My work sits where code meets hardwa
 
 I'm preparing for the **ISTQB Certified Tester** certification and work across CI/CD, AUTOSAR architecture, software quality assurance, CANoe/CANalyzer and AI computer vision, on a base of Python and C/C++.
 
-- 🔭 Working on perception pipelines, driver monitoring and test automation for embedded systems
-- 🎓 M.Sc. Computer Engineering (Data Science), University of Pavia
-- 🌍 Italy / Morocco · English, French and Arabic
-- 📫 Best way to reach me: [email](mailto:hicham.amini.al@gmail.com) or the [contact form](https://hichamcv.netlify.app/contact)
+-  Working on perception pipelines, driver monitoring and test automation for embedded systems
+-  M.Sc. Computer Engineering (Data Science), University of Pavia
+-  Italy / Morocco · English, French and Arabic
+-  Best way to reach me: [email](mailto:hicham.amini.al@gmail.com) or the [contact form](https://hichamcv.netlify.app/contact)
 
 ---
 
