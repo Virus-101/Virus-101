@@ -112,8 +112,6 @@ All fourteen are on the [portfolio](https://hichamcv.netlify.app/projects).
 
 <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Virus-101&theme=github-dark&hide_border=true&background=0d1117&ring=a3e635&fire=a3e635&currStreakLabel=a3e635" />
 
-<img alt="Contribution chart" src="https://ghchart.rshah.org/a3e635/Virus-101" />
-
 </div>
 
 ---
